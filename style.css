@@ -1,0 +1,19 @@
+.chessboard {
+	width: 600px;
+	height: 600px;
+	border: 15px solid #331a00;
+}
+
+.square {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+}
+
+.white {
+	background-color: #ecd8c6;
+}
+
+.black {
+	background-color: #603e1f;
+}
